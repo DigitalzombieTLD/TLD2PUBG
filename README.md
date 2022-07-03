@@ -1,9 +1,9 @@
 # How to use Nvidia Ansel & Freestyle with The Long Dark
 
-[The backstory]
+#[The backstory]
 Nvidia released their Ansel plugin for Unity a few years back. It was easy to integrate for devs and modders alike. 
 
-[The problem]
+#[The problem]
 They don't anymore. Nvidia discontinued the plugin and moved it completely into the graphics drivers.
 The old plugin doesn't work realiable (if at all) anymore because of the changes to the drivers.
 Nvidia is making the old plugin incompatible with newer graphics drivers, bit by bit.
@@ -14,7 +14,7 @@ Game developers need to request the addition to that list. No chance for modders
 
 In very old driver version that list could be edited. Not anymore.
 
-[The solution]
+#[The solution]
 We got no access to the whitelist. But we *do* have access to the game.
 The solution is to RENAME the game to something thats already on that list.
 
